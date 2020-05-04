@@ -1,0 +1,21 @@
+#ifndef __CATCHFISHINSTALL_CATCHFISHSERVER_FEATURE_BINARYCODE_BINARYCODER_H__
+#define __CATCHFISHINSTALL_CATCHFISHSERVER_FEATURE_BINARYCODE_BINARYCODER_H__
+
+class CBinaryCoder
+{
+public:
+	struct BinaryCodeContent
+	{
+
+	};
+public:
+	CBinaryCoder() = default;
+	~CBinaryCoder() = default;
+
+private:
+
+};
+
+
+
+#endif // !__CATCHFISHINSTALL_CATCHFISHSERVER_FEATURE_BINARYCODE_BINARYCODER_H__
